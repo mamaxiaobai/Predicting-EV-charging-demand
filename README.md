@@ -5,4 +5,4 @@ An attempt at recreating [Performance Comparison of Deep Learning Approaches in 
 
 Datasets - [Boulder-Colorado Electric Vehicle Charging Station Energy Consumption](https://open-data.bouldercolorado.gov/datasets/39288b03f8d54b39848a2df9f1c5fca2_0/explore) and [Boulder-Colarado weather](https://psl.noaa.gov/boulder/data.daily.html) data.
 
-Data Collection + Cleaning - 
+[Data Collection + Cleaning](https://github.com/SwethaSrikari/Predicting-EV-charging-demand/blob/main/Data_collection%2Bcleaning.ipynb)
